@@ -1,4 +1,4 @@
-# <center>Project Info</center>  
+# Project Info  
 
 **L**orem ipsum dolor sit amet consectetur adipisicing elit. Libero recusandae, praesentium voluptatem, quaerat natus accusamus eveniet dignissimos magnam dolorum, quasi ipsam nostrum eos doloribus doloremque magni aperiam. Necessitatibus, repudiandae eum.
 
