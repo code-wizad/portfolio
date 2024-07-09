@@ -1,17 +1,19 @@
-## <center>Project info</center>  
+# <center>Project Info</center>  
 
-**L** orem ipsum dolor sit amet consectetur adipisicing elit. Libero recusandae, praesentium voluptatem, quaerat natus accusamus eveniet dignissimos magnam dolorum, quasi ipsam nostrum eos doloribus doloremque magni aperiam. Necessitatibus, repudiandae eum. `Thanks for visiting ` [Portfolio of Panchan kr](https://panchankrportfolio.com/panchankr) !
+**L**orem ipsum dolor sit amet consectetur adipisicing elit. Libero recusandae, praesentium voluptatem, quaerat natus accusamus eveniet dignissimos magnam dolorum, quasi ipsam nostrum eos doloribus doloremque magni aperiam. Necessitatibus, repudiandae eum.
+
+`Thanks for visiting` [Portfolio of Panchan kr](https://panchankrportfolio.com/panchankr)!
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero recusandae, praesentium voluptatem, quaerat natus accusamus eveniet dignissimos magnam dolorum, quasi ipsam nostrum eos doloribus doloremque magni aperiam. Necessitatibus, repudiandae eum.
 
-**Author** : **P** anchan kr 
+**Author**: **P**anchan kr 
 
-### social :  
-- [github](https://github.com/panchankr)
-- [x](https://twitter.com/panchankr)  
-- [Linked In](https://www.linkedin.com/in/panchankr)  
+### Social:  
+- [GitHub](https://github.com/panchankr)
+- [Twitter](https://twitter.com/panchankr)  
+- [LinkedIn](https://www.linkedin.com/in/panchankr)  
 
-#### Table of content  
+### Table of Contents  
 
 | Content | Description |  
 | ------- | ----------- |  
@@ -22,15 +24,17 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero recusandae, prae
 | 5 | Description 5 |
 | 6 | Description 6 |
 
-  #### Used Technologies  
+### Used Technologies  
 
-  - Web  
+- Web  
 
-#### Used Libraries  
+### Used Libraries  
 
 - `Bootstrap`  
-- `Bootstrap icons`  
-- `Mdb Libraries`  
+- `Bootstrap Icons`  
+- `MDB Libraries`  
 
-##### Project details Images are used in this Portfolio  
+### Project Details Images Used in this Portfolio  
+
+...
 
