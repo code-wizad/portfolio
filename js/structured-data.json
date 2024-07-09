@@ -1,0 +1,14 @@
+// {
+//     "@context": "http://schema.org",
+//    "@type": "Person",
+//     "name": "Panchan KR",
+//     "jobTitle": "Frontend Web Developer",
+//     "url": "https://yourwebsite.com",
+//     "sameAs": [
+//       "https://www.linkedin.com/in/panchankr",
+//       "https://github.com/panchankr",
+//       "https://twitter.com/panchankr"
+//     ],
+//     "image": "https://yourwebsite.com/images/profile-preview-image.jpg",
+//     "description": "Welcome to the professional profile of Panchan KR, a frontend web developer specializing in creating stunning and user-friendly websites. Explore my experience, skills, and recommendations."
+//   }

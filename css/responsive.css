@@ -1,0 +1,98 @@
+
+/* responsive fonts size of the menu list*/
+@media (min-width: 576px) {
+    .menufs {
+     
+        font-family: "Space Mono", monospace;
+        font-weight: 700;
+        font-style: italic;
+    
+        font-size: 1.25rem !important;
+        width: 100% !important;
+        height: fit-content !important;
+      }
+  }
+  
+  @media (min-width: 768px) {
+      .menufs {
+        font-family: "Space Mono", monospace;
+        font-weight: 700;
+        font-style: italic;
+    
+          font-size: 6rem !important;
+          width: 100% !important;
+          height: fit-content !important;
+      }
+  }
+  
+  @media (min-width: 992px) {
+      .menufs {
+        font-family: "Space Mono", monospace;
+        font-weight: 700;
+        font-style: italic;
+    
+          font-size: 1.5rem !important;
+          /* width: 100% !important; */
+          height: fit-content !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .menufs {
+    /* font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-style: italic; */
+
+
+      font-family: "Anonymous Pro", monospace;
+      font-weight: 400;
+      font-style: normal;
+/*     
+      font-family: "Monoton", sans-serif;
+      font-weight: 400;
+      font-style: normal; */
+    
+/* 
+      font-family: "Comic Neue", cursive;
+      font-weight: 400;
+      font-style: normal; */
+/*       
+      font-family: "Bodoni Moda", serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal; */
+
+
+    font-size: 2rem !important;
+    /* width: 100% !important; */
+    height: fit-content !important;
+  }
+}
+/* end of the manu font responsive */
+
+/* responsive font name showcase */
+
+@media (min-width: 576px) {
+    .cp-w {
+        font-size: 5rem !important;
+       
+      }
+  }
+@media (min-width: 768px) {
+    .cp-w {
+        font-size: 3rem !important;
+       
+      }
+  }
+@media (min-width: 992px) {
+    .cp-w {
+        font-size: 4rem !important;
+       
+      }
+  }
+@media (min-width: 1200px) {
+    .cp-w {
+        font-size: 5rem !important;
+       
+      }
+  }

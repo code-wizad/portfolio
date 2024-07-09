@@ -1,0 +1,105 @@
+/* Apple's logo typically features a gradient of silver or gray. While the exact color values are not publicly disclosed as variables, you can use the following CSS code to represent the Apple logo color: */
+
+:root {
+  /* Apple logo gradient colors */
+  --logo-gradient-start: #B3B3B3; /* Light gray */
+  --logo-gradient-stop: #666666; /* Dark gray */
+
+/* Here are CSS variables representing black and white colors: */
+  /* Black */
+  --black: #000000;
+
+  /* White */
+  --white: #ffffff;
+
+/* CSS variables representing various shades of gray: */
+  /* Light Gray */
+  --gray-lightest: #f8f9fa;
+  --gray-lighter: #e9ecef;
+  --gray-light: #ced4da;
+
+  /* Medium Gray */
+  --gray: #adb5bd;
+
+  /* Dark Gray */
+  --gray-dark: #6c757d;
+  --gray-darker: #495057;
+  --gray-darkest: #343a40;
+
+/* Subtle colors can add a touch of elegance and sophistication to your design. Here are some CSS variables representing subtle colors that you can use: */
+  /* Soft Blue */
+  --soft-blue: #b3c6ff;
+
+  /* Soft Green */
+  --soft-green: #b3ffb3;
+
+  /* Soft Yellow */
+  --soft-yellow: #ffffb3;
+
+  /* Soft Pink */
+  --soft-pink: #ffc6d9;
+
+  /* Soft Purple */
+  --soft-purple: #d9b3ff;
+
+  /* Soft Orange */
+  --soft-orange: #ffd9b3;
+
+/* bootstrap color var */
+--bs-blue: #0d6efd;
+--bs-indigo: #6610f2;
+--bs-purple: #6f42c1;
+--bs-pink: #d63384;
+--bs-red: #dc3545;
+--bs-orange: #fd7e14;
+--bs-yellow: #ffc107;
+--bs-green: #198754;
+--bs-teal: #20c997;
+--bs-cyan: #0dcaf0;
+
+/* button states  */
+/* Default State */
+--pri-bg: #007AFF;
+--pri-text: #FFFFFF;
+--sec-bg: #E5E5EA;
+--sec-text: #007AFF;
+
+/* Hover State */
+--pri-hover-bg: #005BB5;
+--pri-hover-text: #FFFFFF;
+--sec-hover-bg: #D1D1D6;
+--sec-hover-text: #005BB5;
+
+/* Active/Pressed State */
+--pri-active-bg: #004A99;
+--pri-active-text: #FFFFFF;
+--sec-active-bg: #C7C7CC;
+--sec-active-text: #004A99;
+
+/* Disabled State */
+--pri-disabled-bg: #D1D1D6;
+--pri-disabled-text: #8E8E93;
+--sec-disabled-bg: #F2F2F7;
+--sec-disabled-text: #8E8E93;
+
+/* Focus State */
+--pri-focus-bg: #007AFF;
+--pri-focus-text: #FFFFFF;
+--pri-focus-border: 2px solid #005BB5;
+--sec-focus-bg: #E5E5EA;
+--sec-focus-text: #007AFF;
+--sec-focus-border: 2px solid #005BB5;
+
+/* my color creation 1*/
+--light-grey: #E2E2E2;
+  --pastel-blue: #B7CECE;
+  --slate-grey: #6E7E85;
+  --dark-maroon: #1C0F13;
+  --silver-sand: #BBBAC6;
+
+  /* my color creation 2 */
+    --misty-rose: #EEFOF2;
+    --platinum: #ECEBE4;
+    --timberwolf: #DADDD8;
+    --eerie-black: #1C1C1C;
+}

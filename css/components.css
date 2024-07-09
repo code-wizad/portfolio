@@ -1,0 +1,166 @@
+:root {
+    /* Apple logo gradient colors */
+    --logo-gradient-start: #B3B3B3; /* Light gray */
+    --logo-gradient-stop: #666666; /* Dark gray */
+  
+    /* Black */
+    --black: #000000;
+  
+    /* White */
+    --white: #ffffff;
+  
+    /* Light Gray */
+    --gray-lightest: #f8f9fa;
+    --gray-lighter: #e9ecef;
+    --gray-light: #ced4da;
+  
+    /* Medium Gray */
+    --gray: #adb5bd;
+  
+    /* Dark Gray */
+    --gray-dark: #6c757d;
+    --gray-darker: #495057;
+    --gray-darkest: #343a40;
+  
+    /* Subtle colors */
+    --soft-blue: #b3c6ff;
+    --soft-green: #b3ffb3;
+    --soft-yellow: #ffffb3;
+    --soft-pink: #ffc6d9;
+    --soft-purple: #d9b3ff;
+    --soft-orange: #ffd9b3;
+  
+    /* Bootstrap colors */
+    --bs-blue: #0d6efd;
+    --bs-indigo: #6610f2;
+    --bs-purple: #6f42c1;
+    --bs-pink: #d63384;
+    --bs-red: #dc3545;
+    --bs-orange: #fd7e14;
+    --bs-yellow: #ffc107;
+    --bs-green: #198754;
+    --bs-teal: #20c997;
+    --bs-cyan: #0dcaf0;
+  
+    /* Button states */
+    /* Default State */
+    --pri-bg: #007AFF;
+    --pri-text: #FFFFFF;
+    --sec-bg: #E5E5EA;
+    --sec-text: #007AFF;
+  
+    /* Hover State */
+    --pri-hover-bg: #005BB5;
+    --pri-hover-text: #FFFFFF;
+    --sec-hover-bg: #D1D1D6;
+    --sec-hover-text: #005BB5;
+  
+    /* Active/Pressed State */
+    --pri-active-bg: #004A99;
+    --pri-active-text: #FFFFFF;
+    --sec-active-bg: #C7C7CC;
+    --sec-active-text: #004A99;
+  
+    /* Disabled State */
+    --pri-disabled-bg: #D1D1D6;
+    --pri-disabled-text: #8E8E93;
+    --sec-disabled-bg: #F2F2F7;
+    --sec-disabled-text: #8E8E93;
+  
+    /* Focus State */
+    --pri-focus-bg: #007AFF;
+    --pri-focus-text: #FFFFFF;
+    --pri-focus-border: 2px solid #005BB5;
+    --sec-focus-bg: #E5E5EA;
+    --sec-focus-text: #007AFF;
+    --sec-focus-border: 2px solid #005BB5;
+  
+    /* Custom colors */
+    --light-grey: #E2E2E2;
+    --pastel-blue: #B7CECE;
+    --slate-grey: #6E7E85;
+    --dark-maroon: #1C0F13;
+    --silver-sand: #BBBAC6;
+    
+    --misty-rose: #EEFOF2;
+    --platinum: #ECEBE4;
+    --timberwolf: #DADDD8;
+    --eerie-black: #1C1C1C;
+  }
+  
+
+  /* Focus State */
+.cp-pri-focus-bg     { background-color: #007AFF; }
+.cp-pri-focus-text   { color: #FFFFFF; }
+.cp-pri-focus-border { border: 2px solid #005BB5; }
+
+.cp-sec-focus-bg     { background-color: #E5E5EA; }
+.cp-sec-focus-text   { color: #007AFF; }
+.cp-sec-focus-border { border: 2px solid #005BB5; }
+
+
+/* Custom colors */
+.cp-light-grey   { color: #E2E2E2; }
+.cp-pastel-blue  { color: #B7CECE; }
+.cp-slate-grey   { color: #6E7E85; }
+.cp-dark-maroon  { color: #1C0F13; }
+.cp-silver-sand  { color: #BBBAC6; }
+
+.cp-platinum      { color: #ECEBE4; }
+.cp-timberwolf    { color: #DADDD8; }
+.cp-eerie-black   { color: #1C1C1C; }
+
+/* Button states */
+
+/* Default State */
+.cp-pri-bg           { background-color: #007AFF; }
+.cp-pri-text         { color: #FFFFFF; }
+.cp-sec-bg           { background-color: #E5E5EA; }
+.cp-sec-text         { color: #007AFF; }
+
+/* Hover State */
+.cp-pri-hover-bg     { background-color: #005BB5; }
+.cp-pri-hover-text   { color: #FFFFFF; }
+.cp-sec-hover-bg     { background-color: #D1D1D6; }
+.cp-sec-hover-text   { color: #005BB5; }
+
+/* Active/Pressed State */
+.cp-pri-active-bg    { background-color: #004A99; }
+.cp-pri-active-text  { color: #FFFFFF; }
+.cp-sec-active-bg    { background-color: #C7C7CC; }
+.cp-sec-active-text  { color: #004A99; }
+
+/* Disabled State */
+.cp-pri-disabled-bg  { background-color: #D1D1D6; }
+.cp-pri-disabled-text { color: #8E8E93; }
+.cp-sec-disabled-bg  { background-color: #F2F2F7; }
+.cp-sec-disabled-text { color: #8E8E93; }
+
+/* Other colors */
+
+/* Black */
+.cp-black            { color: #000000; }
+
+/* White */
+.cp-white            { color: #FFFFFF; }
+
+/* Light Gray */
+.cp-gray-lightest    { color: #F8F9FA; }
+.cp-gray-lighter     { color: #E9ECEF; }
+.cp-gray-light       { color: #CED4DA; }
+
+/* Medium Gray */
+.cp-gray             { color: #ADB5BD; }
+
+/* Dark Gray */
+.cp-gray-dark        { color: #6C757D; }
+.cp-gray-darker      { color: #495057; }
+.cp-gray-darkest     { color: #343A40; }
+
+/* Subtle colors */
+.cp-soft-blue        { color: #B3C6FF; }
+.cp-soft-green       { color: #B3FFB3; }
+.cp-soft-yellow      { color: #FFFFB3; }
+.cp-soft-pink        { color: #FFC6D9; }
+.cp-soft-purple      { color: #D9B3FF; }
+.cp-soft-orange      { color: #FFD9B3; }
