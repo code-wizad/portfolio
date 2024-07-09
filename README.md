@@ -34,7 +34,3 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero recusandae, prae
 
 ##### Project details Images are used in this Portfolio  
 
-![first image](../images/five.jpg.jpeg)  
-
-
-![second image](../images/eight.jpg.jpeg)
