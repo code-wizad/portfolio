@@ -1,6 +1,6 @@
 ## <center>Project info</center>  
 
-**L** orem ipsum dolor sit amet consectetur adipisicing elit. Libero recusandae, praesentium voluptatem, quaerat natus accusamus eveniet dignissimos magnam dolorum, quasi ipsam nostrum eos doloribus doloremque magni aperiam. Necessitatibus, repudiandae eum. `Thanks for visiting ` [Portfolio of Panchan kr](https://panchankrportfolio.com/panchankr) !
+**L** orem ipsum dolor sit amet consectetur adipisicing elit. Libero recusandae, praesentium voluptatem, quaerat natus accusamus eveniet dignissimos magnam dolorum, quasi ipsam nostrum eos doloribus doloremque magni aperiam. Necessitatibus, repudiandae eum. `Thanks for visiting ` [Portfolio of Panchan kr](https://code-wizad.github.io/portfolio/) !
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero recusandae, praesentium voluptatem, quaerat natus accusamus eveniet dignissimos magnam dolorum, quasi ipsam nostrum eos doloribus doloremque magni aperiam. Necessitatibus, repudiandae eum.
 
