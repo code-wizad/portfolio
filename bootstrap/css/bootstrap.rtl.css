@@ -8386,11 +8386,11 @@ textarea.form-control-lg {
   font-style: normal !important;
 }
 
-.fw-lighterer {
+.fw-lighter {
   font-weight: lighter !important;
 }
 
-.fw-lighter {
+.fw-light {
   font-weight: 300 !important;
 }
 
@@ -8406,11 +8406,11 @@ textarea.form-control-lg {
   font-weight: 600 !important;
 }
 
-.fw-lighter {
+.fw-bold {
   font-weight: 700 !important;
 }
 
-.fw-lighterer {
+.fw-bolder {
   font-weight: bolder !important;
 }
 

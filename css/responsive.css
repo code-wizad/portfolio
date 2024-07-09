@@ -1,12 +1,7 @@
 
 /* responsive fonts size of the menu list*/
 @media (min-width: 576px) {
-    .menufs {
-     
-        font-family: "Space Mono", monospace;
-        font-weight: 700;
-        font-style: italic;
-    
+    .fontfs {
         font-size: 1.25rem !important;
         width: 100% !important;
         height: fit-content !important;
@@ -14,11 +9,7 @@
   }
   
   @media (min-width: 768px) {
-      .menufs {
-        font-family: "Space Mono", monospace;
-        font-weight: 700;
-        font-style: italic;
-    
+      .fontfs {
           font-size: 6rem !important;
           width: 100% !important;
           height: fit-content !important;
@@ -26,45 +17,17 @@
   }
   
   @media (min-width: 992px) {
-      .menufs {
-        font-family: "Space Mono", monospace;
-        font-weight: 700;
-        font-style: italic;
-    
-          font-size: 1.5rem !important;
-          /* width: 100% !important; */
+      .fontfs {
+          font-size: 8rem !important;
+          width: 100% !important;
           height: fit-content !important;
   }
 }
 
 @media (min-width: 1200px) {
-  .menufs {
-    /* font-family: "Space Mono", monospace;
-    font-weight: 700;
-    font-style: italic; */
-
-
-      font-family: "Anonymous Pro", monospace;
-      font-weight: 400;
-      font-style: normal;
-/*     
-      font-family: "Monoton", sans-serif;
-      font-weight: 400;
-      font-style: normal; */
-    
-/* 
-      font-family: "Comic Neue", cursive;
-      font-weight: 400;
-      font-style: normal; */
-/*       
-      font-family: "Bodoni Moda", serif;
-      font-optical-sizing: auto;
-      font-weight: <weight>;
-      font-style: normal; */
-
-
-    font-size: 2rem !important;
-    /* width: 100% !important; */
+  .fontfs {
+    font-size: 11rem !important;
+    width: 100% !important;
     height: fit-content !important;
   }
 }
