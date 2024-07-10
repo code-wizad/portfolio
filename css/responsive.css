@@ -1,6 +1,6 @@
 
 /* responsive fonts size of the menu list*/
-@media (min-width: 576px) {
+@media (max-width: 576px) {
     .fontfs {
         font-size: 1.25rem !important;
         width: 100% !important;
