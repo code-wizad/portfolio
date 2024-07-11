@@ -31,4 +31,4 @@ As a web developer proficient in Bootstrap, CSS, HTML, C, and C++, I bring a ver
 
 ### Project details Images are used in this Portfolio  
 
-![first image](./images/logo-one.jpeg)  
+![first image](./images/logo-one.jpg)  
