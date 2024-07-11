@@ -1,5 +1,6 @@
 
 /* responsive fonts size of the menu list*/
+
 @media (min-width: 576px) {
     .fontfs {
         font-size: 1.25rem !important;
@@ -8,7 +9,8 @@
       }
       .bi {
         font-size: 2rem;
-        color: blue;
+        padding: 2px 4px;
+    
     }
   }
   
@@ -20,7 +22,7 @@
       }
       .bi {
         font-size: 2rem;
-        color: blue;
+    
     }
   }
   
@@ -32,7 +34,7 @@
   }
   .bi {
     font-size: 2rem;
-    color: blue;
+    
 }
 }
 
@@ -43,8 +45,9 @@
     height: fit-content !important;
   }
   .bi {
+    transform: translate(50% -50%);
     font-size: 2rem;
-    color: blue;
+    padding: 4px 10px;
 }
 }
 /* end of the manu font responsive */

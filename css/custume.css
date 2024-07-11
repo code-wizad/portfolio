@@ -1,9 +1,33 @@
-/* 
-
 .bi {
-    color: rgb(106, 105, 105);
-    font-size: 2rem;
-}.bi:hover {
-    color: rgb(59, 57, 57);
-    transform: translate3d( 0px 0px 500px)
+    /* color: brown; */
+    border-radius: 50%;
+    color: rgb(128, 128, 128,.2);
+    padding: 5px 9px;
+}
+.bi:hover {
+    color: rgb(0, 0, 0,1);
+    background-color: greenyellow;
+}
+/* .socialmedialinks:hover {
+    background-color: greenyellow;
+    color: black;
 } */
+
+.navbar-brand {
+    background-image: linear-gradient(to right, #f43b47 0%, #453a94 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "Charmonman", cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+.navbar-brand:hover {
+    text-decoration: overline;
+    color: #453a94;
+}
+.api:link {
+    text-decoration: none;
+}
+.api:hover {
+    text-decoration: overline;
+}
