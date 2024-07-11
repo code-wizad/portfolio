@@ -1,11 +1,11 @@
 .bi {
     border-radius: 50%;
-    color: rgb(128, 128, 128,.2);
-    padding: 5px 9px;
+    color: rgb(128, 128, 128,.3);
+    padding: 3px 8px;
 }
 .bi:hover {
-    color: rgb(0, 0, 0,1);
-    background-color: greenyellow;
+    color: rgb(0, 0, 0,.8);
+    background-color: rgba(173, 255, 47);
 }
 .socialmedialinks:hover {
     background-color: greenyellow;
@@ -23,4 +23,29 @@
 .navbar-brand:hover {
     text-decoration: overline;
     color: #453a94;
+    }
+    /* 
+.socialicons .bi-reddit {
+    color: rgb(255,69,0);
+}
+.socialicons .bi-facebook {
+    color: green;
+}
+.socialicons .bi-github {
+    color: green;
+}
+.socialicons .bi-instagram {
+    color: green;
+}
+.socialicons .bi-linkedin {
+    color: green;
+}
+.socialicons .bi-twitter-x {
+    color: green;
+}
+.socialicons .bi-dribbble {
+    color: green;
+} */
+.api:hover {
+text-decoration: overline;
 }

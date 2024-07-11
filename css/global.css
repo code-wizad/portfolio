@@ -1,5 +1,7 @@
-/* custom navbar property class */
-/* .cp-navbar {
-    background-color: rgba(59, 248, 2, 0.4);
-    backdrop-filter: saturate(180%) blur(30px);
-} */
+.cpnavbar {
+    background-color: rgba(0, 0, 0,1) !important;
+    backdrop-filter: saturate(180%) blur(30px) !important;
+} 
+.bgdark {
+    background-color: black !important;
+}
