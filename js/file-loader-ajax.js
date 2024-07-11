@@ -1,4 +1,3 @@
-/*
 
 
 // Function to load scripts dynamically
@@ -22,13 +21,13 @@ async function init() {
     try {
         // List of JavaScript files to load
         const scripts = [
-            '../js/file-loader-ajax.js',
-            '../js/index.js',
-            '../js/main.js',
-            '../js/not-allowed.js',
-            '../js/page-transition.js',
-            '../js/script.js',
-            '../js/page-scroll-indicate.js',
+            './js/file-loader-ajax.js',
+            './js/index.js',
+            './js/main.js',
+            './js/not-allowed.js',
+            './js/page-transition.js',
+            './js/script.js',
+            './js/page-scroll-indicate.js',
             // Add more script paths as needed
         ];
 
@@ -45,4 +44,3 @@ async function init() {
 
 // Start the initialization process
 init();
-*/
