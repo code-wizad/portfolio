@@ -1,11 +1,15 @@
 
 /* responsive fonts size of the menu list*/
-@media (max-width: 576px) {
+@media (min-width: 576px) {
     .fontfs {
         font-size: 1.25rem !important;
         width: 100% !important;
         height: fit-content !important;
       }
+      .bi {
+        font-size: 2rem;
+        color: blue;
+    }
   }
   
   @media (min-width: 768px) {
@@ -14,6 +18,10 @@
           width: 100% !important;
           height: fit-content !important;
       }
+      .bi {
+        font-size: 2rem;
+        color: blue;
+    }
   }
   
   @media (min-width: 992px) {
@@ -22,6 +30,10 @@
           width: 100% !important;
           height: fit-content !important;
   }
+  .bi {
+    font-size: 2rem;
+    color: blue;
+}
 }
 
 @media (min-width: 1200px) {
@@ -30,6 +42,10 @@
     width: 100% !important;
     height: fit-content !important;
   }
+  .bi {
+    font-size: 2rem;
+    color: blue;
+}
 }
 /* end of the manu font responsive */
 

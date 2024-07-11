@@ -1,6 +1,9 @@
+/* 
+
 .bi {
     color: rgb(106, 105, 105);
+    font-size: 2rem;
 }.bi:hover {
     color: rgb(59, 57, 57);
     transform: translate3d( 0px 0px 500px)
-}
+} */
