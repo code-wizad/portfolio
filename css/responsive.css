@@ -40,7 +40,7 @@
 
 @media (min-width: 1200px) {
   .fontfs {
-    font-size: 6rem !important;
+    font-size: 4rem !important;
     width: 100% !important;
     height: fit-content !important;
   }
