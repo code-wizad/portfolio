@@ -1,3 +1,4 @@
+
 .bi {
     border-radius: 50%;
     color: rgb(128, 128, 128,.3);
@@ -10,7 +11,10 @@
 .socialmedialinks:hover {
     background-color: greenyellow;
     color: black;
+    
 }
+/* animation of socialicons in the navigationbar */
+
 
 .navbar-brand {
     background-image: linear-gradient(to right, #f43b47 0%, #453a94 100%);
@@ -23,29 +27,7 @@
 .navbar-brand:hover {
     text-decoration: overline;
     color: #453a94;
-    }
-    /* 
-.socialicons .bi-reddit {
-    color: rgb(255,69,0);
 }
-.socialicons .bi-facebook {
-    color: green;
-}
-.socialicons .bi-github {
-    color: green;
-}
-.socialicons .bi-instagram {
-    color: green;
-}
-.socialicons .bi-linkedin {
-    color: green;
-}
-.socialicons .bi-twitter-x {
-    color: green;
-}
-.socialicons .bi-dribbble {
-    color: green;
-} */
 .api:hover {
 text-decoration: overline;
 }
