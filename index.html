@@ -59,6 +59,7 @@
     <link rel="stylesheet" href="./css/font.css">
     <link rel="stylesheet" href="./css/responsive.css">
     <link rel="stylesheet" href="./css/custume.css">
+    <link rel="stylesheet" href="./css/icon.css">
     <!-- animation library -->
     <link
     rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
@@ -67,13 +68,13 @@
 
   <!-- Navbar -->
   
-  <nav class="navbar navbar-top position-sticky-top mt-2 bgdark py-2">
+  <nav class="navbar position-sticky mt-2 bgdark py-2">
     <div class="container-fluid">
       <a class="navbar-brand mx-sm-auto mx-md-auto mx-lg-auto mx-xl-auto mx-xxl-0 fs-4 fw-bold animate__animated animate__slideInLeft animate__slower" href="#">PANCHAN KR</a>
       <a href="#" class="api px-5 me-sm-auto mx-md-0 mx-lg-0 animate__animated animate__flipInX animate__slower">Active page indicatior</a>
      
 
-        <div class="row">
+        <div class="row d-sm-none">
           <div class="col">
             <ul class="d-flex justify-content-around m-0 mx-sm-5 socialicons">
             <li class="nav-item cp-li-none mx-sm-1 fs-4"><a class="nav-link text-decoration-none animate__animated animate__slideInDown" href="#" target="_blank" rel="noopener noreferrer"><i class="bi bi-reddit"></i></a></li>
@@ -88,11 +89,11 @@
         </div>
         
         
-        <a class="navbar-toggler p-0 border-0 animate__animated animate__slideInRight animate__infinite animate__slower" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
+        <a class="navbar-toggler menubtn p-0 border-0 animate__animated animate__slideInRight animate__slower" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
           <i class="bi bi-list"></i>
         </a>
       </div>          
-          <div class="offcanvas offcanvas-end bgdark w-75 h-100" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
+          <div style="width: 90%;" class="offcanvas offcanvas-end bgdark h-100" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
           <div class="offcanvas-header">
             <h5 class="offcanvas-title fs-1" id="offcanvasDarkNavbarLabel">MENU</h5>
             <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
@@ -126,26 +127,21 @@
                 </div> Get in touch </a>
               </li> 
             </ul>
-            
-            
-            <!-- <form class="d-flex mt-3" role="search">
-              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-              <button class="btn btn-success" type="submit">Search</button>
-            </form> -->
-            <ul class="d-flex justify-content-around m-0 mx-sm-5 mt-3">
-              <li class="nav-item cp-li-none mx-sm-1 fs-4"><a class="nav-link text-decoration-none" href="#" target="_blank" rel="noopener noreferrer"><i class="bi bi-reddit"></i></a></li>
-              <li class="nav-item cp-li-none mx-sm-1 fs-4"><a class="nav-link text-decoration-none" href="#" target="_blank" rel="noopener noreferrer"><i class="bi bi-facebook border-0"></i></a></li>
-              <li class="nav-item cp-li-none mx-sm-1 fs-4"><a class="nav-link text-decoration-none" href="https://github.com/panchankr" target="_blank" rel="noopener noreferrer"><i class="bi bi-github border-0"></i></a></li>
-              <li class="nav-item cp-li-none mx-sm-1 fs-4"><a class="nav-link text-decoration-none" href="#"><i class="bi bi-instagram border-0" target="_blank" rel="noopener noreferrer"></i></a></li>
-              <li class="nav-item cp-li-none mx-sm-1 fs-4"><a class="nav-link text-decoration-none" href="https://www.linkedin.com/in/panchankr" target="_blank" rel="noopener noreferrer"><i class="bi bi-linkedin border-0"></i></a></li>
-              <li class="nav-item cp-li-none mx-sm-1 fs-4"><a class="nav-link text-decoration-none" href="https://twitter.com/panchankr" target="_blank" rel="noopener noreferrer"><i class="bi bi-twitter-x border-0"></i></a></li>
-              
-              <li class="nav-item cp-li-none mx-sm-1 fs-4"><a class="nav-link text-decoration-none" href="https://twitter.com/panchankr" target="_blank" rel="noopener noreferrer"><i class="bi bi-dribbble"></i></a></li>
-
-            </ul>
-            
+            <div class="row">
+<div class="col col-sm-12">
+  <ul class="justify-content-around">
+    <li class="nav-item cp-li-none mx-sm-1 fs-4"><a class="nav-link text-decoration-none" href="#" target="_blank" rel="noopener noreferrer"><i class="bi bi-reddit"></i>Reddit</a></li>
+    <li class="nav-item cp-li-none mx-sm-1 fs-4"><a class="nav-link text-decoration-none" href="#" target="_blank" rel="noopener noreferrer"><i class="bi bi-facebook border-0"></i>Facebooke</a></li>
+    <li class="nav-item cp-li-none mx-sm-1 fs-4"><a class="nav-link text-decoration-none" href="https://github.com/panchankr" target="_blank" rel="noopener noreferrer"><i class="bi bi-github border-0"></i>Github</a></li>
+    <li class="nav-item cp-li-none mx-sm-1 fs-4"><a class="nav-link text-decoration-none" href="#"><i class="bi bi-instagram border-0" target="_blank" rel="noopener noreferrer"></i>Instgram</a></li>
+    <li class="nav-item cp-li-none mx-sm-1 fs-4"><a class="nav-link text-decoration-none" href="https://www.linkedin.com/in/panchankr" target="_blank" rel="noopener noreferrer"><i class="bi bi-linkedin border-0"></i>LinkedIn</a></li>
+                <li class="nav-item cp-li-none mx-sm-1 fs-4"><a class="nav-link text-decoration-none" href="https://twitter.com/panchankr" target="_blank" rel="noopener noreferrer"><i class="bi bi-twitter-x border-0"></i>X</a></li>
+                <li class="nav-item cp-li-none mx-sm-1 fs-4"><a class="nav-link text-decoration-none" href="https://twitter.com/panchankr" target="_blank" rel="noopener noreferrer"><i class="bi bi-dribbble"></i>Dribble</a></li>
+              </ul>
+            </div>
           </div>
         </div>
+          </div>
   </nav>    
     <div class="container-fluid p-0 sectionheight bgdark">
       <row>

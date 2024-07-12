@@ -3,15 +3,10 @@
 
 @media (min-width: 576px) {
     .fontfs {
-        font-size: 1.25rem !important;
+        font-size: 1rem !important;
         width: 100% !important;
         height: fit-content !important;
       }
-      .bi {
-        font-size: 2rem;
-        padding: 2px 4px;
-    
-    }
   }
   
   @media (min-width: 768px) {
