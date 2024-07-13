@@ -2,7 +2,7 @@
 /* responsive fonts size of the menu list*/
 
 @media (min-width: 576px) {
-    .fontfs {
+    .offcanvafs {
         font-size: 1rem !important;
         width: 100% !important;
         height: fit-content !important;
@@ -10,7 +10,7 @@
   }
   
   @media (min-width: 768px) {
-      .fontfs {
+      .offcanvafs {
           font-size: 6rem !important;
           width: 100% !important;
           height: fit-content !important;
@@ -25,7 +25,7 @@
   }
   
   @media (min-width: 992px) {
-      .fontfs {
+      .offcanvafs {
           font-size: 8rem !important;
           width: 100% !important;
           height: fit-content !important;
@@ -38,7 +38,7 @@
 }
 
 @media (min-width: 1200px) {
-  .fontfs {
+  .offcanvafs {
     font-size: 4rem !important;
     width: 100% !important;
     height: fit-content !important;

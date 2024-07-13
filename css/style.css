@@ -51,13 +51,15 @@
 
 
 /* menu font size */
-.fontfs {
+.offcanvafs {
     color: whitesmoke !important;
     /* text-align: center !important; */
 }
 
-.fontfs:hover {
+.offcanvafs:hover {
     color: burlywood !important;
+    padding-left: 5%;
+    
 }
 .sectionheight {
     height: 100vh !important;

@@ -1,3 +1,4 @@
+// Progressbar js
 window.onscroll = function() { updateProgressBar() };
 
 function updateProgressBar() {
@@ -5,5 +6,5 @@ function updateProgressBar() {
     var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
     var scrolled = (winScroll / height) * 100;
     document.getElementById("progressbar").style.width = scrolled + "%";
-    document.getElementById("progressvalue").textContent = math.round(scrolled) + "%";
+    document.getElementById("progressvalue").textContent = Math.round(scrolled) + "%";
 }
