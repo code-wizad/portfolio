@@ -15,11 +15,11 @@
           width: 100% !important;
           height: fit-content !important;
       }
-.bi {
+/* .bi {
     border-radius: 50%;
     color: rgb(128, 128, 128,.3);
     padding: 3px 8px;
-}
+} */
     
     
   }
@@ -30,11 +30,11 @@
           width: 100% !important;
           height: fit-content !important;
   }
-  .bi {
+  /* .bi {
     border-radius: 50%;
     color: rgb(128, 128, 128,.3);
     padding: 3px 8px;
-}
+} */
 }
 
 @media (min-width: 1200px) {
@@ -43,11 +43,11 @@
     width: 100% !important;
     height: fit-content !important;
   }
-.bi {
+/* .bi {
     border-radius: 50%;
     color: rgb(128, 128, 128,.3);
     padding: 3px 8px;
-}
+} */
 }
 /* end of the manu font responsive */
 
