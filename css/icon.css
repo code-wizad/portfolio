@@ -1,50 +1,40 @@
-:root {
-  --animate-delay:2s
-}
-.animate__animated.animate__slideInDown {
-  --animate-duration: 2s;
-}
-
 .bi {
     border-radius: 50%;
-    color: rgb(128, 128, 128,.3);
+    /* color: rgb(128, 128, 128,.3); */
     padding: 1px 5px 2px 5px;
 } 
 .bi:hover {
     color: rgb(0, 0, 0,.8);
     background-color: rgba(173, 255, 47);
 } 
-/* homepage menu toggler btn */
-  .navbar a.menubtn {
-    font-size: 1.9rem;
-  }
-  .navbar a.menubtn:hover {
-    background-color: transparent;
-    }
-.bi-reddit {
-  --animate-delay: 3s;
+ul#navbarsocialicons .bi {
+  color: rgba(255, 255, 255, 1);
+  background-color: transparent;
 }
-#navbarsocialicons .bi-facebook {
-  --animate-delay: 4s;
+ul#navbarsocialicons .bi-reddit:hover {
+  background-color: grey;
 }
-#navbarsocialicons .bi-github {
-  --animate-delay: 6s;
+ul#navbarsocialicons .bi-facebook:hover {
+  color: aqua;
+  background-color: grey;
 }
-#navbarsocialicons .bi-instagram {
-  --animate-delay: 8s;
+ul#navbarsocialicons .bi-github:hover {
+  color: aqua;
+  background-color: grey;
 }
-#navbarsocialicons .bi-linkedin {
-  --animate-delay: 10s;
+ul#navbarsocialicons .bi-instagram:hover {
+  color: aqua;
+  background-color: grey;
 }
-#navbarsocialicons .bi-twitter-x {
-  --animate-delay: 12s;
+ul#navbarsocialicons .bi-linkedin:hover {
+  color: aqua;
+  background-color: grey;
 }
-#navbarsocialicons .bi-dribbble {
-  --animate-delay: 14s;
-} 
-.socialmedialinks a:hover {
-  background-color: greenyellow;
-  border-radius: 50%;
-  color: black;
-  
+ul#navbarsocialicons .bi-twitter-x:hover {
+  color: aqua;
+  background-color: grey;
+}
+ul#navbarsocialicons .bi-dribbble:hover {
+  color: aqua;
+  background-color: grey;
 }
